@@ -1,0 +1,10 @@
+.header_top_links {
+    min-height: 3.5em;
+    background: #1c4a05;
+    color: #fff;
+}
+
+.header_top_container {
+    margin-top: 1em;
+    text-align: center;
+}
