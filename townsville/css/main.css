@@ -25,6 +25,10 @@
     font-size: 0.9em;
 }
 
+.text_extra_big {
+    font-size: 3em;
+}
+
 body {
     background: #ebebeb; /* For browsers that do not support gradients */
 }
